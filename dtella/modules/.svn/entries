@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="514"
+   name=""
+   committed-date="2008-08-04T03:55:52.788914Z"
+   url="http://dtella.googlecode.com/svn/trunk/dtella/modules"
+   last-author="paul248"
+   kind="dir"
+   uuid="1b93dcd4-b14b-11dd-8d2d-9519526c4844"
+   revision="598"/>
+<entry
+   committed-rev="497"
+   name="pull_gdata.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2008-03-04T05:14:53.523751Z"
+   checksum="b2958aaccd8f5ae5b301b42d4c123fe9"
+   last-author="feisley"
+   kind="file"
+   prop-time="2009-04-15T02:24:35.000000Z"/>
+<entry
+   committed-rev="473"
+   name="__init__.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2008-01-23T04:54:25.355116Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:35.000000Z"/>
+<entry
+   committed-rev="473"
+   name="push_gdata.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2008-01-23T04:54:25.355116Z"
+   checksum="381f29da3083584d348d08a0befbc658"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:35.000000Z"/>
+<entry
+   committed-rev="473"
+   name="push_yi.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2008-01-23T04:54:25.355116Z"
+   checksum="2d37d9a266647c178d466971e0e154d3"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:35.000000Z"/>
+<entry
+   committed-rev="478"
+   name="pull_dns.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2008-01-27T14:11:38.793298Z"
+   checksum="f29d91d64b09b428f94820c7c0f7ffc4"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:35.000000Z"/>
+<entry
+   committed-rev="473"
+   name="push_textfile.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2008-01-23T04:54:25.355116Z"
+   checksum="31a89e43d3cd7d29b9c219c62748cb36"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:35.000000Z"/>
+<entry
+   committed-rev="514"
+   name="push_dnsupdate.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2008-08-04T03:55:52.788914Z"
+   checksum="ef420bb8c397e4c5f78fe2e46ff1a75b"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:35.000000Z"/>
+</wc-entries>

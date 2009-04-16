@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="598"
+   name=""
+   committed-date="2009-04-12T00:38:52.071493Z"
+   url="http://dtella.googlecode.com/svn/trunk/dtella/bridge"
+   last-author="sparkmaul"
+   kind="dir"
+   uuid="1b93dcd4-b14b-11dd-8d2d-9519526c4844"
+   revision="598"/>
+<entry
+   committed-rev="503"
+   name="push_dconfig.py"
+   text-time="2009-04-15T02:24:36.000000Z"
+   committed-date="2008-04-14T05:30:45.057475Z"
+   checksum="a47e94a182a513b351f27e0f88045c38"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:36.000000Z"/>
+<entry
+   committed-rev="597"
+   name="inspircd.py"
+   text-time="2009-04-15T02:24:36.000000Z"
+   committed-date="2009-04-02T06:23:48.506032Z"
+   checksum="e827cf4183d9f7fd6913d94dfab2a316"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:36.000000Z"/>
+<entry
+   committed-rev="545"
+   name="push_dconfig_main.py"
+   text-time="2009-04-15T02:24:36.000000Z"
+   committed-date="2008-11-10T08:57:36.032188Z"
+   checksum="6614c709e619ea4cc2a8de7a6389ff78"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:36.000000Z"/>
+<entry
+   committed-rev="473"
+   name="__init__.py"
+   text-time="2009-04-15T02:24:36.000000Z"
+   committed-date="2008-01-23T04:54:25.355116Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:36.000000Z"/>
+<entry
+   committed-rev="598"
+   name="bridge_server.py"
+   text-time="2009-04-15T02:24:36.000000Z"
+   committed-date="2009-04-12T00:38:52.071493Z"
+   checksum="adbbd4cc64550a1b8acdcefdaa7fb422"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:36.000000Z"/>
+<entry
+   committed-rev="500"
+   name="private_key.py"
+   text-time="2009-04-15T02:24:36.000000Z"
+   committed-date="2008-03-31T00:53:54.613747Z"
+   checksum="23f67d640372de58679da726fc8ea8e5"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:36.000000Z"/>
+<entry
+   committed-rev="564"
+   name="main.py"
+   text-time="2009-04-15T02:24:36.000000Z"
+   committed-date="2009-03-02T04:53:54.638362Z"
+   checksum="464a1862dc5b20f0dc3834ba1d9b8609"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:36.000000Z"/>
+<entry
+   committed-rev="596"
+   name="unreal.py"
+   text-time="2009-04-15T02:24:36.000000Z"
+   committed-date="2009-03-31T06:44:22.960465Z"
+   checksum="fe6380388fad5890d9b63a558cdda306"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:36.000000Z"/>
+</wc-entries>

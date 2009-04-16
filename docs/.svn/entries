@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="595"
+   name=""
+   committed-date="2009-03-30T17:52:10.218001Z"
+   url="http://dtella.googlecode.com/svn/trunk/docs"
+   last-author="sparkmaul"
+   kind="dir"
+   uuid="1b93dcd4-b14b-11dd-8d2d-9519526c4844"
+   revision="598"/>
+<entry
+   committed-rev="559"
+   name="protocol.txt"
+   text-time="2009-04-15T02:24:39.000000Z"
+   committed-date="2009-02-02T05:29:10.103437Z"
+   checksum="5f93a3cdf6a7707c1666ebe0e5570f56"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:37.000000Z"/>
+<entry
+   committed-rev="270"
+   name="gpl.txt"
+   text-time="2009-04-15T02:24:39.000000Z"
+   committed-date="2007-02-06T22:35:25.708341Z"
+   checksum="751419260aa954499f7abaabaa882bbe"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:37.000000Z"/>
+<entry
+   committed-rev="550"
+   name="requirements.txt"
+   text-time="2009-04-15T02:24:39.000000Z"
+   committed-date="2008-12-01T11:41:35.529582Z"
+   checksum="af86c8125d4cc48183119db0d6cd8e48"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:37.000000Z"/>
+<entry
+   committed-rev="572"
+   name="bridge_config.py.example"
+   text-time="2009-04-15T02:24:39.000000Z"
+   committed-date="2009-03-08T13:17:13.950356Z"
+   checksum="b8cba4cb01920fe011ad578c040fcd47"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:37.000000Z"/>
+<entry
+   committed-rev="561"
+   name="changelog.txt"
+   text-time="2009-04-15T02:24:39.000000Z"
+   committed-date="2009-02-14T22:40:36.693600Z"
+   checksum="c5e881a0b79744eee1c1862a7f08c9c6"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:37.000000Z"/>
+<entry
+   committed-rev="153"
+   name="connect_states.txt"
+   text-time="2009-04-15T02:24:39.000000Z"
+   committed-date="2007-01-16T01:29:57.032513Z"
+   checksum="383cd79ae837063de6ce65d65da4b2f3"
+   last-author="feisley"
+   kind="file"
+   prop-time="2009-04-15T02:24:37.000000Z"/>
+<entry
+   committed-rev="529"
+   name="dns_format.txt"
+   text-time="2009-04-15T02:24:39.000000Z"
+   committed-date="2008-10-24T05:05:23.761097Z"
+   checksum="f9958bdc4e5c499e57548ce1a24f30c9"
+   last-author="feisley"
+   kind="file"
+   prop-time="2009-04-15T02:24:37.000000Z"/>
+<entry
+   committed-rev="546"
+   name="readme.txt"
+   text-time="2009-04-15T02:24:39.000000Z"
+   committed-date="2008-11-24T07:11:57.129360Z"
+   checksum="2112e86c21103e802ddb48b05ea4939e"
+   last-author="feisley"
+   kind="file"
+   prop-time="2009-04-15T02:24:37.000000Z"/>
+<entry
+   committed-rev="595"
+   name="pmarks_dtella_analysis.pdf"
+   text-time="2009-04-15T02:24:39.000000Z"
+   committed-date="2009-03-30T17:52:10.218001Z"
+   checksum="13353e24f0d7d48cacbeb30d0593c51a"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:39.000000Z"/>
+</wc-entries>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="581"
+   name=""
+   committed-date="2009-03-16T06:13:40.773819Z"
+   url="http://dtella.googlecode.com/svn/trunk/dtella/client"
+   last-author="sparkmaul"
+   kind="dir"
+   uuid="1b93dcd4-b14b-11dd-8d2d-9519526c4844"
+   revision="598"/>
+<entry
+   committed-rev="559"
+   name="bridge_client.py"
+   text-time="2009-04-15T02:24:36.000000Z"
+   committed-date="2009-02-02T05:29:10.103437Z"
+   checksum="931b62c5c92298ba3f7bc87ba0e6bf72"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:36.000000Z"/>
+<entry
+   committed-rev="473"
+   name="__init__.py"
+   text-time="2009-04-15T02:24:36.000000Z"
+   committed-date="2008-01-23T04:54:25.355116Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:36.000000Z"/>
+<entry
+   committed-rev="545"
+   name="main.py"
+   text-time="2009-04-15T02:24:36.000000Z"
+   committed-date="2008-11-10T08:57:36.032188Z"
+   checksum="d4d32cfeb4e9bf0e9228c55516e1563a"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:36.000000Z"/>
+<entry
+   committed-rev="557"
+   name="pull_dconfig.py"
+   text-time="2009-04-15T02:24:36.000000Z"
+   committed-date="2009-01-24T22:10:49.042926Z"
+   checksum="4a925b87d49e1c34b9ef5b403336f6a2"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:36.000000Z"/>
+<entry
+   committed-rev="581"
+   name="dc.py"
+   text-time="2009-04-15T02:24:36.000000Z"
+   committed-date="2009-03-16T06:13:40.773819Z"
+   checksum="f47f50e6e6e11412ce763b469d50c17e"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:36.000000Z"/>
+</wc-entries>

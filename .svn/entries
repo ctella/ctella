@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="598"
+   name=""
+   committed-date="2009-04-12T00:38:52.071493Z"
+   url="http://dtella.googlecode.com/svn/trunk"
+   last-author="sparkmaul"
+   kind="dir"
+   uuid="1b93dcd4-b14b-11dd-8d2d-9519526c4844"
+   revision="598"/>
+<entry
+   committed-rev="536"
+   name="build_py2exe.bat"
+   text-time="2009-04-15T02:24:41.000000Z"
+   committed-date="2008-11-03T14:50:57.085342Z"
+   checksum="f74eaa0c77cedc6f22d5c66b5b87581d"
+   last-author="feisley"
+   kind="file"
+   prop-time="2009-04-15T02:24:34.000000Z"/>
+<entry
+   committed-rev="549"
+   name="makevars.py"
+   text-time="2009-04-15T02:24:41.000000Z"
+   committed-date="2008-12-01T11:22:14.099383Z"
+   checksum="550b66050a477ed57b34552196101be9"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:34.000000Z"/>
+<entry
+   committed-rev="550"
+   name="build_osx.sh"
+   text-time="2009-04-15T02:24:41.000000Z"
+   committed-date="2008-12-01T11:41:35.529582Z"
+   checksum="6726a7461f0cedc6c24db764110b90ed"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:34.000000Z"/>
+<entry
+   committed-rev="551"
+   name="build_installer.bat"
+   text-time="2009-04-15T02:24:41.000000Z"
+   committed-date="2008-12-01T11:58:51.509946Z"
+   checksum="51e5c8fe1358747c1df4a0dcd850b7f3"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:34.000000Z"/>
+<entry
+   name="dtella"
+   kind="dir"/>
+<entry
+   name="installer_osx"
+   kind="dir"/>
+<entry
+   committed-rev="559"
+   name="setup.py"
+   text-time="2009-04-15T02:24:41.000000Z"
+   committed-date="2009-02-02T05:29:10.103437Z"
+   checksum="29ba234b835ad741e892617760e29ab3"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:37.000000Z"/>
+<entry
+   name="docs"
+   kind="dir"/>
+<entry
+   name="installer_win"
+   kind="dir"/>
+<entry
+   name="icons"
+   kind="dir"/>
+<entry
+   committed-rev="572"
+   name="dtella.py"
+   text-time="2009-04-15T02:24:41.000000Z"
+   committed-date="2009-03-08T13:17:13.950356Z"
+   checksum="68e6bc5eb4dbb335c258ccd359f95d81"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:41.000000Z"/>
+</wc-entries>

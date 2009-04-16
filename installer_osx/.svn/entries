@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="518"
+   name=""
+   committed-date="2008-08-07T05:31:55.282676Z"
+   url="http://dtella.googlecode.com/svn/trunk/installer_osx"
+   last-author="feisley"
+   kind="dir"
+   uuid="1b93dcd4-b14b-11dd-8d2d-9519526c4844"
+   revision="598"/>
+<entry
+   committed-rev="518"
+   name="template.dmg"
+   text-time="2009-04-15T02:24:37.000000Z"
+   committed-date="2008-08-07T05:31:55.282676Z"
+   checksum="4ac50250e06ed68703b1fd277a0bb940"
+   last-author="feisley"
+   kind="file"
+   prop-time="2009-04-15T02:24:37.000000Z"/>
+<entry
+   name="resources"
+   kind="dir"/>
+</wc-entries>

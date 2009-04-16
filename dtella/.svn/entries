@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="598"
+   name=""
+   committed-date="2009-04-12T00:38:52.071493Z"
+   url="http://dtella.googlecode.com/svn/trunk/dtella"
+   last-author="sparkmaul"
+   kind="dir"
+   uuid="1b93dcd4-b14b-11dd-8d2d-9519526c4844"
+   revision="598"/>
+<entry
+   committed-rev="473"
+   name="__init__.py"
+   text-time="2009-04-15T02:24:36.000000Z"
+   committed-date="2008-01-23T04:54:25.355116Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:34.000000Z"/>
+<entry
+   committed-rev="554"
+   name="local_config.py"
+   text-time="2009-04-15T02:24:36.000000Z"
+   committed-date="2008-12-02T09:12:02.432027Z"
+   checksum="6447b1a3315b1fd087f8481821c820b7"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:34.000000Z"/>
+<entry
+   name="common"
+   kind="dir"/>
+<entry
+   name="modules"
+   kind="dir"/>
+<entry
+   name="bridge"
+   kind="dir"/>
+<entry
+   name="client"
+   kind="dir"/>
+</wc-entries>

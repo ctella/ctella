@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="586"
+   name=""
+   committed-date="2009-03-23T08:27:28.957078Z"
+   url="http://dtella.googlecode.com/svn/trunk/dtella/common"
+   last-author="sparkmaul"
+   kind="dir"
+   uuid="1b93dcd4-b14b-11dd-8d2d-9519526c4844"
+   revision="598"/>
+<entry
+   committed-rev="586"
+   name="core.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2009-03-23T08:27:28.957078Z"
+   checksum="e902cbafd08fd416dc6d1ec583ea422f"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:34.000000Z"/>
+<entry
+   committed-rev="544"
+   name="fix_twisted.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2008-11-09T05:30:39.242448Z"
+   checksum="302169827638a037290fa921b5e8dd61"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:34.000000Z"/>
+<entry
+   committed-rev="584"
+   name="util.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2009-03-16T08:00:04.348633Z"
+   checksum="e0ced1372d36044df1a963579c8e0b30"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:35.000000Z"/>
+<entry
+   committed-rev="473"
+   name="__init__.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2008-01-23T04:54:25.355116Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:35.000000Z"/>
+<entry
+   committed-rev="503"
+   name="reverse_dns.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2008-04-14T05:30:45.057475Z"
+   checksum="9fdb173e5377ce04c0df2ef046379eed"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:35.000000Z"/>
+<entry
+   committed-rev="500"
+   name="crypto.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2008-03-31T00:53:54.613747Z"
+   checksum="23b5d9f34f199323609b66248a39005d"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:35.000000Z"/>
+<entry
+   committed-rev="503"
+   name="state.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2008-04-14T05:30:45.057475Z"
+   checksum="c2d74157e34508e738d5e077579b9d23"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:35.000000Z"/>
+<entry
+   committed-rev="572"
+   name="log.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2009-03-08T13:17:13.950356Z"
+   checksum="aaa004d78904bfb3b569e23ad97e96d2"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:35.000000Z"/>
+<entry
+   committed-rev="509"
+   name="ipv4.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2008-04-21T01:42:46.811024Z"
+   checksum="2db779825b38832a5036bbeed3bb3d96"
+   last-author="paul248"
+   kind="file"
+   prop-time="2009-04-15T02:24:35.000000Z"/>
+<entry
+   committed-rev="559"
+   name="interfaces.py"
+   text-time="2009-04-15T02:24:35.000000Z"
+   committed-date="2009-02-02T05:29:10.103437Z"
+   checksum="90a223cea46e3895df44c9dfcdfbc263"
+   last-author="sparkmaul"
+   kind="file"
+   prop-time="2009-04-15T02:24:35.000000Z"/>
+</wc-entries>

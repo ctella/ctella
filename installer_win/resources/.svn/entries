@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="355"
+   name=""
+   committed-date="2007-02-15T23:34:46.503692Z"
+   url="http://dtella.googlecode.com/svn/trunk/installer_win/resources"
+   last-author="feisley"
+   kind="dir"
+   uuid="1b93dcd4-b14b-11dd-8d2d-9519526c4844"
+   revision="598"/>
+<entry
+   committed-rev="355"
+   name="welcome.bmp"
+   text-time="2009-04-15T02:24:40.000000Z"
+   committed-date="2007-02-15T23:34:46.503692Z"
+   checksum="3b483bb10d48aaa93c450979f15df9fd"
+   last-author="feisley"
+   kind="file"
+   prop-time="2009-04-15T02:24:40.000000Z"/>
+</wc-entries>
